@@ -7,10 +7,6 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Comment 1
-
-_Zieke header bro_
-
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
@@ -54,6 +50,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+##### Dit is een iets grotere header
 
 ### :keyboard: Activity: Edit your file with headers
 

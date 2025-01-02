@@ -7,6 +7,10 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+# Comment 1
+
+_Zieke header bro_
+
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
@@ -64,6 +68,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+Nieuwe header toegevoegd bovenaan
 
 <footer>
 
